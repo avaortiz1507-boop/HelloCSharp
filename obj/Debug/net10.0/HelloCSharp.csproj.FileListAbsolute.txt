@@ -1,0 +1,14 @@
+C:\Users\avaor\projects\HelloCSharp\bin\Debug\net10.0\HelloCSharp.exe
+C:\Users\avaor\projects\HelloCSharp\bin\Debug\net10.0\HelloCSharp.deps.json
+C:\Users\avaor\projects\HelloCSharp\bin\Debug\net10.0\HelloCSharp.runtimeconfig.json
+C:\Users\avaor\projects\HelloCSharp\bin\Debug\net10.0\HelloCSharp.dll
+C:\Users\avaor\projects\HelloCSharp\bin\Debug\net10.0\HelloCSharp.pdb
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\HelloCSharp.AssemblyInfo.cs
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\HelloCSharp.dll
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\refint\HelloCSharp.dll
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\HelloCSharp.pdb
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\HelloCSharp.genruntimeconfig.cache
+C:\Users\avaor\projects\HelloCSharp\obj\Debug\net10.0\ref\HelloCSharp.dll

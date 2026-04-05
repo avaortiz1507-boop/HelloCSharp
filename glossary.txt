@@ -1,0 +1,16 @@
+Console application - a console application uses the terminal and command prompt to do things
+such as debug, log messages in the terminal, and inputting and outputting data
+
+namespace - namespace is used to avoid confusion and overwriting if using the same name as a 
+defined name such as CLASS, ORDER, HelloCSharp etc.
+
+class - a class is a piece of code you can reuse for objects, like a blueprint for a house.
+
+method - methods are functions that used for objects
+
+property - a property is a line of code that has a key and a value. for example, age:12 
+is a property because age is the key and 12 is the value
+
+constructor - a constructor is used for creating objects with premade properties and methods.
+
+.NET - this program allows you to build applications
